@@ -18,7 +18,7 @@
       <TextField fx:id="txtNumber1" layoutX="219.0" layoutY="134.0" prefHeight="26.0" prefWidth="262.0" promptText="Insert your name" />
       <TextField fx:id="txtNumber2" layoutX="219.0" layoutY="173.0" prefHeight="26.0" prefWidth="262.0" promptText="Insert old password" />
       <TextField fx:id="txtNumber3" layoutX="219.0" layoutY="253.0" prefHeight="26.0" prefWidth="262.0" promptText="Insert new password" />
-      <TextField fx:id="txtNumber4" layoutX="219.0" layoutY="296.0" prefHeight="26.0" prefWidth="262.0" promptText="Confirme new password" />
+      <TextField fx:id="txtNumber4" layoutX="219.0" layoutY="296.0" prefHeight="26.0" prefWidth="262.0" promptText="Confirm new password" />
       <Label layoutX="151.0" layoutY="135.0" text="Name:">
          <font>
             <Font size="19.0" />
