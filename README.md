@@ -1,3 +1,6 @@
+
+[![My Linkedin Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/vinicius-92)
+
 # Password Tester
 Password tester made using:
 
@@ -31,4 +34,3 @@ While making this simple program I was able to understando more basic concepts s
  
  On the root repository it is includeded the Runnable JAR File, you can download or clone the project and run with that file (PasswordTester.jar) or using Eclipse IDE with JafaFX and JDK installed.
 
-[![My Linkedin Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/vinicius-92)
