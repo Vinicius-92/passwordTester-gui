@@ -41,7 +41,7 @@
       </Label>
       <ImageView fitHeight="62.0" fitWidth="63.0" layoutX="49.0" layoutY="26.0" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@lock.png" />
+            <Image url="https://raw.githubusercontent.com/Vinicius-92/passwordTester-gui/main/src/gui/lock.png?token=ANONR7TONFS3R6FHZFZCQEK7365OK" />
          </image>
       </ImageView>
       <Button fx:id="btCheck" layoutX="230.0" layoutY="341.0" mnemonicParsing="false" onAction="#onBtCheckAction" text="Check" />
