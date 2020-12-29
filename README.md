@@ -29,8 +29,4 @@ Password tester made using:
  * Can't be the same as old password
  
 While making this simple program I was able to understando more basic concepts such as REGEX, Alerts and Stage Buiding in JavaFX
- 
- ### How to use:
- 
- On the root repository it is includeded the Runnable JAR File, you can download or clone the project and run with that file (PasswordTester.jar) or using Eclipse IDE with JavaFX and JDK installed.
 
