@@ -30,3 +30,7 @@ Password tester made using:
  
 While making this simple program I was able to understando more basic concepts such as REGEX, Alerts and Stage Buiding in JavaFX
 
+### To Do / Wishlist
+ * Create a web page with similar desing to host the application
+ * Connect with database to store user and password
+ * Deploy the backend at a online service
